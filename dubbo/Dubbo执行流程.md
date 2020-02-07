@@ -1,1 +1,0 @@
-<img src="images/dubbo-framework-principle2.png">
