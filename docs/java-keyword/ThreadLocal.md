@@ -45,7 +45,7 @@ bb
 
 # 3.ThreadLocal实现原理
 
-<img src="/images/ThreadLocal.png" alt="ThreadLocal" style="zoom:50%;" />
+<img src="images/ThreadLocal.png" alt="ThreadLocal" style="zoom:50%;" />
 
 ```java
 public

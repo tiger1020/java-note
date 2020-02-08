@@ -1,6 +1,6 @@
 # 1.AOP执行流程
 
-<img src="/images/Spring AOP代理详解.png">
+<img src="images/Spring AOP代理详解.png">
 
 # 2.@EnableAspectJAutoProxy处理
 
@@ -27,7 +27,7 @@ public void registerBeanDefinitions(
 
 ## 2.1. AnnotationAwareAspectJAutoProxyCreator类结构图
 
-<img src="/images/AnnotationAwareAspectJAutoProxyCreator类结构图.png"/>
+<img src="images/AnnotationAwareAspectJAutoProxyCreator类结构图.png"/>
 
 # 3.bean实例化之前过程
 
@@ -399,11 +399,11 @@ public AopProxy createAopProxy(AdvisedSupport config) throws AopConfigException 
 
 ## 5.1.获取beanproxy流程
 
-<img src="/images/创建Proxy过程.png">
+<img src="images/创建Proxy过程.png">
 
 ## 5.2.Prxoy类结构图
 
-<img src="/images/Proxy类结构图.png">
+<img src="images/Proxy类结构图.png">
 
 # 6.拦截器执行invoke之前动作
 

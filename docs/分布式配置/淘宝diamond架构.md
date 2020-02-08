@@ -1,6 +1,6 @@
 # 1.diamond架构
 
-<img src="/images/分布式配置-diamond架构.png">
+<img src="images/分布式配置-diamond架构.png">
 
 diamond的特点是简单、可靠、易用：
 
@@ -10,7 +10,7 @@ diamond的特点是简单、可靠、易用：
 
 # 2.diamond流程
 
-<img src="/images/分布式配置-diamond流程.png">
+<img src="images/分布式配置-diamond流程.png">
 
 ## 2.1.server集群数据同步
 

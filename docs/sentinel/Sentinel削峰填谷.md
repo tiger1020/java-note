@@ -1,6 +1,6 @@
 # 1.整体流程
 
-<img src="/images/Sentinel 削峰填谷.png">
+<img src="images/Sentinel 削峰填谷.png">
 
 # 2.源码分析
 

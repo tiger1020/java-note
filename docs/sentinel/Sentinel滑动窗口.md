@@ -29,7 +29,7 @@ D -->|不可以| I(创建新窗口)
 
 # 3.窗口时间轴变化
 
-<img src="/images/Sentinel 滑动窗口.png">
+<img src="images/Sentinel 滑动窗口.png">
 
 >第一次：当前时间戳=49，  索引=0，窗口开始时间=0       =>不存在，创建窗口
 >

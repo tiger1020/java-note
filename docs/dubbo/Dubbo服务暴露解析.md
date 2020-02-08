@@ -1,1 +1,1 @@
-<img src="/images/Dubbo 服务暴露解析.png">
+<img src="images/Dubbo 服务暴露解析.png">

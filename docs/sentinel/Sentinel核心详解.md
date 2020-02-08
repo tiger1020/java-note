@@ -1,6 +1,6 @@
 # 1.整体流程
 
-<img src="/images/Sentinel 核心流程.png">
+<img src="images/Sentinel 核心流程.png">
 
 # 2.Slot详解
 
@@ -91,7 +91,7 @@ Entry nodeA = SphU.entry("nodeA");
 Entry nodeB = SphU.entry("nodeB");
 ```
 
-<img src="/images/Sentinel Resource场景.png">
+<img src="images/Sentinel Resource场景.png">
 
 ## 2.2.FlowSlot
 

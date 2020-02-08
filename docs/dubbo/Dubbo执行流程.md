@@ -1,1 +1,1 @@
-<img src="/images/dubbo-framework-principle2.png">
+<img src="images/dubbo-framework-principle2.png">

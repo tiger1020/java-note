@@ -8,7 +8,7 @@
 
 ## Node
 
-<img src="/images/Sentinel 基本概念.png">
+<img src="images/Sentinel 基本概念.png">
 
 `DefaultNode`和`ClusterNode`区别
 

@@ -1,6 +1,6 @@
 # 1.实时更新流程
 
-<img src="/images/分布式配置-nacos流程.png">
+<img src="images/分布式配置-nacos流程.png">
 
 # 2.客户端操作
 

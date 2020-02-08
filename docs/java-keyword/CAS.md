@@ -4,7 +4,7 @@
 
 **操作流程**
 
-<img src="/images/CAS流程.png">
+<img src="images/CAS流程.png">
 
 **可能存在问题**
 
@@ -18,7 +18,7 @@
 
 Java8优化：他就是尝试使用分段CAS以及自动分段迁移的方式来大幅度提升多线程高并发执行CAS操作的性能！
 
-<img src="/images/CAS优化.png">
+<img src="images/CAS优化.png">
 
 在LongAdder的底层实现中，首先有一个base值，刚开始多线程来不停的累加数值，都是对base进行累加的，比如刚开始累加成了base = 5。
 

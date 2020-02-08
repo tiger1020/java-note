@@ -1,6 +1,6 @@
 # 1.整体流程图
 
-<img src="/images/Bean生命周期.png">
+<img src="images/Bean生命周期.png">
 
 Spring Bean对象的可扩展性主要就是依靠InstantiationAwareBeanPostProcessor和BeanPostProcessor来实现的，其中重要的2个接口:
 

@@ -1,10 +1,10 @@
 # 1.调用流程图
 
-<img src="/images/ExtensionLoader详解.png">
+<img src="images/ExtensionLoader详解.png">
 
 # 2.ExtensionLoader组成部分
 
-<img src="/images/ExtensionLoader详解2.png">
+<img src="images/ExtensionLoader详解2.png">
 
 # 3.源码分析
 

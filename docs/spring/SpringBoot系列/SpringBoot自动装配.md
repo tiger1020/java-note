@@ -1,6 +1,6 @@
 # 1.自动装配流程解析
 
-<img src="/images/Spring Boot自动装配.png">
+<img src="images/Spring Boot自动装配.png">
 
 # 2.三大核心注解
 

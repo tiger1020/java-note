@@ -6,7 +6,7 @@
 
 这样就保证，任何一个线程修改了变量值，其他线程立马就可以看见了！
 
-<img src="/images/volatile.png" alt="image-20191129161026984" style="zoom:50%;" />
+<img src="images/volatile.png" alt="image-20191129161026984" style="zoom:50%;" />
 
 # 2.有序性(禁止指令重排优化)
 

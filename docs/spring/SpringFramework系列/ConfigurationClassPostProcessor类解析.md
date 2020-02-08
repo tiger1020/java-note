@@ -1,6 +1,6 @@
 # 1.整体解析流程图
 
-<img src="/images/ConfigurationClassPostProcessor类解析.png">
+<img src="images/ConfigurationClassPostProcessor类解析.png">
 
 # 2.执行阶段
 
@@ -211,7 +211,7 @@ protected final SourceClass doProcessConfigurationClass(ConfigurationClass confi
 
 ## 4.1.执行流程图
 
-<img src="/images/@Configuration增强类.png">
+<img src="images/@Configuration增强类.png">
 
 ## 4.2.执行阶段
 
