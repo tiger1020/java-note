@@ -8,4 +8,4 @@
 
 **流程**
 
-<img src="/images/AQS流程.png">
+<img src="https://inews.gtimg.com/newsapp_bt/0/11274233838/1000">
