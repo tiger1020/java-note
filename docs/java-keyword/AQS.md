@@ -8,5 +8,4 @@
 
 **流程**
 
-<img src="http://github.com/shishan100/Java-Interview-Advanced/blob/master/images/database-id-sequence-step.png">
-
+<img src="/images/AQS流程.png">
